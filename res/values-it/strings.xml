@@ -33,7 +33,7 @@
   <string name="preview_data_title">Anteprima dati</string>
   <string name="preview_data_summary">%s</string>
   <string name="view_stats_title">Pagina di visualizzazione statistiche LiquidSmooth</string>
-  <string name="anonymous_learn_more">Learn more</string>
+  <string name="anonymous_learn_more">Impara di più</string>
   <string name="last_report_on">Ultima segnalazione</string>
   <string name="reporting_interval">Intervallo segnalazione</string>
   <plurals name="reporting_interval_days">

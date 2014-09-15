@@ -33,7 +33,7 @@
   <string name="preview_data_title">Aperçu des données</string>
   <string name="preview_data_summary">%s</string>
   <string name="view_stats_title">Voir la page des stats de Liquid</string>
-  <string name="anonymous_learn_more">Learn more</string>
+  <string name="anonymous_learn_more">En savoir plus</string>
   <string name="last_report_on">Dernier rapport</string>
   <string name="reporting_interval">Fréquence de rapport</string>
   <plurals name="reporting_interval_days">

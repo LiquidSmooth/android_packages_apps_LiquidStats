@@ -24,7 +24,7 @@
   <string name="anonymous_statistics_title">Статистика Liquid</string>
   <string name="anonymous_statistics_summary">Допоможіть покращити LiquidSmooth увімкнув звіти анонімної статистики</string>
   <string name="anonymous_statistics_warning_title">Про</string>
-  <string name="anonymous_statistics_warning">Надання Статистики дозволить команді LiquidSmooth отримувати не персональну інформація для відстеження
+  <string name="anonymous_statistics_warning">Надання Статистики дозволить команді LiquidSmooth отримувати не персональну інформацію для відстеження
         унікальних встановлень на пристрої. Представлена інформація включає унікальний ідентифікатор,
         що дозволить зберегти недоторканість вашого приватного життя і персональних даних. Звіти надсилаються кожні 7 днів.\n\nДля отримання прикладу інформації, що надсилається, натисніть Попередній перегляд даних.</string>
   <string name="pref_settings">Налаштування</string>
