@@ -15,37 +15,35 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Liquid Stats</string>
-  <string name="main_title">LiquidSmooth Anonymous Usage Data</string>
-  <string name="notification_ticker">Statistics Opted-In</string>
-  <string name="notification_title">Liquid Statistics</string>
-  <string name="notification_desc">Enable or Disable Anonymous Statistics</string>
-  <string name="main_link">&lt;a href=\"http://www.cyanogenmod.org/blog/cmstats-what-it-is-and-why-you-should-opt-in\"&gt;Learn More&lt;/a&gt;</string>
-  <string name="anonymous_statistics_title">Liquid Stats</string>
-  <string name="anonymous_statistics_summary">Help make LiquidSmooth better by opting into anonymous statistics reporting</string>
-  <string name="anonymous_statistics_warning_title">About</string>
-  <string name="anonymous_statistics_warning">Opting into Liquid Stats will allow non-personal data to be submitted to the
-        LiquidSmooth to track unique installations across devices. The information submitted includes an unique identifier,
-        which does not compromise your privacy or personal data. The data is submitted every 7 days.\n\nFor an example of the data that is submitted, tap on Preview Data.</string>
-  <string name="pref_settings">Settings</string>
-  <string name="enable_reporting_title">Enable reporting</string>
-  <string name="disable_reporting_persistent">Persistent opt-out</string>
-  <string name="preview_data_title">Preview data</string>
+  <string name="app_name">Liquid statistik</string>
+  <string name="main_title">LiquidSmooth anonym användningsdata</string>
+  <string name="notification_ticker">Statistik valt</string>
+  <string name="notification_title">Liquid Statistik</string>
+  <string name="notification_desc">Aktivera eller inaktivera anonym statistik</string>
+  <string name="main_link">&lt; en href = \"http://www.cyanogenmod.org/blog/cmstats-what-it-is-and-why-you-should-opt-in\" &gt; Lär dig mer &lt; /a &gt;</string>
+  <string name="anonymous_statistics_title">Liquid statistik</string>
+  <string name="anonymous_statistics_summary">Bidra till att göra LiquidSmooth bättre genom att välja till anonym statistik rapportering</string>
+  <string name="anonymous_statistics_warning_title">Om</string>
+  <string name="anonymous_statistics_warning">Att delta i AOKP Statistik kommer att tillåta överföringen av opersonlig data till AOKPs utvecklare för att kunna spåra unika installationer enheter emellan. Den inlämnade informationen inkluderar ett unikt ID, som inte äventyrar din integritet eller personliga data. Datan skickas in vid varje uppstart. För att se ett exempel på inskickad data, tryck på Förhandsgranska data.</string>
+  <string name="pref_settings">Inställningar</string>
+  <string name="enable_reporting_title">Aktivera rapportering</string>
+  <string name="disable_reporting_persistent">Ihållande opt-out</string>
+  <string name="preview_data_title">Förhandsgranska data</string>
   <string name="preview_data_summary">%s</string>
-  <string name="view_stats_title">View Liquid Stats Page</string>
-  <string name="anonymous_learn_more">Learn more</string>
-  <string name="last_report_on">Last reported</string>
-  <string name="reporting_interval">Reporting interval</string>
+  <string name="view_stats_title">Visa Liquids statistiksida</string>
+  <string name="anonymous_learn_more">Läs mer</string>
+  <string name="last_report_on">Senast rapporterat</string>
+  <string name="reporting_interval">Rapporterings intervall</string>
   <plurals name="reporting_interval_days">
-    <item quantity="one">1 day</item>
+    <item quantity="one">1 dag</item>
     <item quantity="other">%d days</item>
   </plurals>
-  <string name="next_report_on">Next report</string>
-  <string name="preview_id_title">Unique ID</string>
-  <string name="preview_device_title">Device</string>
+  <string name="next_report_on">Nästa rapport</string>
+  <string name="preview_id_title">Unikt ID</string>
+  <string name="preview_device_title">Enheten</string>
   <string name="preview_version_title">Version</string>
-  <string name="preview_country_title">Country</string>
-  <string name="preview_carrier_title">Carrier</string>
-  <string name="preview_romname_title">ROM Name</string>
+  <string name="preview_country_title">Land</string>
+  <string name="preview_carrier_title">Operatör</string>
+  <string name="preview_romname_title">ROM namn</string>
   <string name="preview_romversion_title">LiquidSmooth Version</string>
 </resources>
